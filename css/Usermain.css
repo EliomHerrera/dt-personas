@@ -1,0 +1,10 @@
+.d-grip-4 {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.m {
+    margin: 40px;
+}
